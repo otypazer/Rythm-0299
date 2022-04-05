@@ -224,7 +224,7 @@ async def on_message(message):
     if ctx[0] == '!blm':
         await message.channel.send("Bot Lives Matter !!!")
 
-client.run ("ODMyNzEzNzM0NTgwMzM4Njg4.YHnzGQ.OltnCDDEN75qA_6Sk99W6jEaurE")
+client.run ("")
 
 
 
